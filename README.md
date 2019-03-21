@@ -7,8 +7,8 @@ This project is designed for one to practice the Git/Github workflow here at Lam
 - [x] Create your own version of this repo - Fork
 - [x] Add your PM as a collaborator
 - [x] Clone this repo
-- [ ] Create a branch `git checkout -b 'firstName-lastName'`
-  - [ ] Add your name to the list of names below.
+- [x] Create a branch `git checkout -b 'firstName-lastName'`
+  - [x] Add your name to the list of names below.
   - [ ] Run your usual git commands or adding/commiting and pushing **Be sure to push to your branch**
 - [ ] Create a Pull-Request to submit your work
   - [ ] Use your own student fork as the base (compare across forks, base-fork -> master).
@@ -19,3 +19,4 @@ This project is designed for one to practice the Git/Github workflow here at Lam
 
 - Steve Rogers
 - Ryan Hamblin
+- Andy Bettisworth
